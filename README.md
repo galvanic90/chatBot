@@ -21,11 +21,11 @@ Este proyecto es un asistente de texto enfocado en brindar información sobre Gi
 <div id='autores' />
 Este chatbot fue realizado por las siguientes personas:
 
-* Ricardo Contreras Garzón @RickContreras
+* Ricardo Contreras Garzón [@RickContreras](https://github.com/Ricardoy568)
 
-* Sara Galván Ortega @galvanic90
+* Sara Galván Ortega [@galvanic90](https://github.com/galvanic90)
 
-* Daniel León Danzo @DainXOR
+* Daniel León Danzo [@DainXOR](https://github.com/DainXOR)
 
 Estudiantes de pregrado en Ingeniería de sistemas de la Universidad de Antioquia.
 
@@ -124,7 +124,7 @@ Ejecución del script del chat
 python3 bot.py
 ```
 
-Si este último comando se ejecuta sin errores, entonces podrá interactuar con Sebastian chatbot, podría probar con un saludo :smile 
+Si este último comando se ejecuta sin errores, entonces podrá interactuar con Sebastian chatbot, podría probar con un saludo 😁 
 
 ![img-ejemplo](/assets/Captura%20desde%202024-11-18%2010-39-48.png)
 
