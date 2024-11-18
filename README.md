@@ -21,11 +21,11 @@ Este proyecto es un asistente de texto enfocado en brindar información sobre Gi
 <div id='autores' />
 Este chatbot fue realizado por las siguientes personas:
 
-* Ricardo Contreras Garzón
+* Ricardo Contreras Garzón @RickContreras
 
-* Sara Galván Ortega
+* Sara Galván Ortega @galvanic90
 
-* Daniel León Danzo
+* Daniel León Danzo @DainXOR
 
 Estudiantes de pregrado en Ingeniería de sistemas de la Universidad de Antioquia.
 
