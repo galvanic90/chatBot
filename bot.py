@@ -36,6 +36,6 @@ while True:
     else:
         response = chatbot.get_response(query)
         if float(response.confidence) < 0.5:  # Ajusta el umbral de confianza según sea necesario
-            print("🤖Lo siento, solo sé cosas sobre GitHub Copilot.")
+            print("🤖 Lo siento, solo sé cosas sobre GitHub Copilot.")
         else:
             print(f"🤖 {response}")
